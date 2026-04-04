@@ -4,6 +4,8 @@ i am rekha
 public class Main {
   int x;  // Class variable x
 
+40 20 4 4 6
+
   // Constructor with one parameter x
   public Main(int x) {
     this.x = x; // refers to the class variable x
